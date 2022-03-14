@@ -30,10 +30,7 @@ namespace class_vehiclecar.Models
             }
             else
             {
-                for (double i = way; i >= 1; i--)
-                {
-                    CurrentFuel -= 0.19;
-                }
+                CurrentFuel = CurrentFuel-FuelFor1Km * way ;
 
             }
             return CurrentFuel;
