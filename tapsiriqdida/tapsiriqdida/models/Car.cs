@@ -20,7 +20,7 @@ namespace class_vehiclecar.Models
 
         public void ShowInfo()
         {
-            Console.WriteLine($"Brand:{brand}\nModel:{model}\nColor:{Color}\nYear:{Year}\nFuelCapacity:{FuelCapacity}l\nFuerFor1Km:{FuelFor1Km}l\nCurrentFuel:{CurrentFuel}l");
+            Console.WriteLine($"Brand:{brand}\nModel:{model}\nColor:{Color}\nYear:{Year}\nFuelCapacity:{FuelCapacity} liter\nFuerFor1Km:{FuelFor1Km} liter\nCurrentFuel:{CurrentFuel} liter");
         }
         public double Drive(double way)
         {
