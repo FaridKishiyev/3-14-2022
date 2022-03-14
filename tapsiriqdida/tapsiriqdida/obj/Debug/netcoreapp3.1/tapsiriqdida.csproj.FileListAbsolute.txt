@@ -1,0 +1,14 @@
+C:\Users\tu7nvyvez\Desktop\tapsiriqdida\tapsiriqdida\obj\Debug\netcoreapp3.1\tapsiriqdida.csproj.AssemblyReference.cache
+C:\Users\tu7nvyvez\Desktop\tapsiriqdida\tapsiriqdida\obj\Debug\netcoreapp3.1\tapsiriqdida.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\tu7nvyvez\Desktop\tapsiriqdida\tapsiriqdida\obj\Debug\netcoreapp3.1\tapsiriqdida.AssemblyInfoInputs.cache
+C:\Users\tu7nvyvez\Desktop\tapsiriqdida\tapsiriqdida\obj\Debug\netcoreapp3.1\tapsiriqdida.AssemblyInfo.cs
+C:\Users\tu7nvyvez\Desktop\tapsiriqdida\tapsiriqdida\obj\Debug\netcoreapp3.1\tapsiriqdida.csproj.CoreCompileInputs.cache
+C:\Users\tu7nvyvez\Desktop\tapsiriqdida\tapsiriqdida\bin\Debug\netcoreapp3.1\tapsiriqdida.exe
+C:\Users\tu7nvyvez\Desktop\tapsiriqdida\tapsiriqdida\bin\Debug\netcoreapp3.1\tapsiriqdida.deps.json
+C:\Users\tu7nvyvez\Desktop\tapsiriqdida\tapsiriqdida\bin\Debug\netcoreapp3.1\tapsiriqdida.runtimeconfig.json
+C:\Users\tu7nvyvez\Desktop\tapsiriqdida\tapsiriqdida\bin\Debug\netcoreapp3.1\tapsiriqdida.runtimeconfig.dev.json
+C:\Users\tu7nvyvez\Desktop\tapsiriqdida\tapsiriqdida\bin\Debug\netcoreapp3.1\tapsiriqdida.dll
+C:\Users\tu7nvyvez\Desktop\tapsiriqdida\tapsiriqdida\bin\Debug\netcoreapp3.1\tapsiriqdida.pdb
+C:\Users\tu7nvyvez\Desktop\tapsiriqdida\tapsiriqdida\obj\Debug\netcoreapp3.1\tapsiriqdida.dll
+C:\Users\tu7nvyvez\Desktop\tapsiriqdida\tapsiriqdida\obj\Debug\netcoreapp3.1\tapsiriqdida.pdb
+C:\Users\tu7nvyvez\Desktop\tapsiriqdida\tapsiriqdida\obj\Debug\netcoreapp3.1\tapsiriqdida.genruntimeconfig.cache
